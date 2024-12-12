@@ -1,4 +1,4 @@
-# Tableau dashboard of Airbnb homestays
+# Tableau Dashboard of Airbnb Homestays
 ## Overview
 I have developed this interactive Tableau dashboard using the data of Airbnb homestays in Seattle, WA. This analysis includes insights into pricing trends, Peak seasons and peak locations. The objective is to provide actionable insights for hosts, travelers to make decisions easily.
 
