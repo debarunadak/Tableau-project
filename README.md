@@ -3,7 +3,7 @@
 I have developed this interactive Tableau dashboard using the data of Airbnb homestays in Seattle, WA. This analysis includes insights into pricing trends, Peak seasons and peak locations. The objective is to provide actionable insights for hosts, travelers to make decisions easily.
 
 ## Dataset Used
-- <a href="https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset">Dataset
+- <a href="https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset">Dataset </a>
 
 ## Questions
 - What is the average price of the homestays by zipcode?
@@ -14,7 +14,7 @@ I have developed this interactive Tableau dashboard using the data of Airbnb hom
 - Whats is the total revenue per bedroom?
   
 ## Dashboard
-- <a href="https://public.tableau.com/app/profile/debarun.adak/viz/AirBnBfullproject_17327779201920/Dashboard1?publish=yes">Airbnb Dashboard
+- <a href="https://public.tableau.com/app/profile/debarun.adak/viz/AirBnBfullproject_17327779201920/Dashboard1?publish=yes">Airbnb Dashboard </a>
 
 ## Process
 - Downloading the dataset from Kaggle which contains information over 6000 Airbnb locations in Seattle. The dataset includes location, price, bedrooms, booking and review details.
