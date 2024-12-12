@@ -17,8 +17,8 @@ I have developed this interactive Tableau dashboard using the data of Airbnb hom
 - <a href="https://public.tableau.com/app/profile/debarun.adak/viz/AirBnBfullproject_17327779201920/Dashboard1?publish=yes">Airbnb Dashboard
 
 ## Process
-- downloading the dataset from Kaggle which contains information over 6000 Airbnb locations in Seattle. The dataset includes location, price, bedrooms, booking and review details.
-- joining sheets using Join in Tableu.
+- Downloading the dataset from Kaggle which contains information over 6000 Airbnb locations in Seattle. The dataset includes location, price, bedrooms, booking and review details.
+- Joining sheets using Join in Tableu.
 - Calculating average price per zipcode, monthly revenue potential.
 - Creating bar graphs for average price per location, line chart for revenue.
 
