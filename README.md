@@ -13,7 +13,7 @@ I have developed this interactive Tableau dashboard using the data of Airbnb hom
 - What is the peak season of the year?
 - Whats is the total revenue per bedroom?
   
-## Dashboard
+## Tableau Dashboard
 - <a href="https://public.tableau.com/app/profile/debarun.adak/viz/AirBnBfullproject_17327779201920/Dashboard1?publish=yes">Airbnb Dashboard </a>
 
 ## Process
